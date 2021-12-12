@@ -4,7 +4,8 @@
 3. Run it in the browser.
 4. Controls:<br/>
   UP    --- up arrow <br/>
-  DOWN  --- down arrow <br/> 
+  DOWN  --- down arrow <br/>
   LEFT  --- left arrow <br/>
   RIGHT --- right arrow <br/>
   BOMB  --- space
+5.ATOM is synchronized
