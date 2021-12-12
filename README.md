@@ -8,4 +8,4 @@
   LEFT  --- left arrow <br/>
   RIGHT --- right arrow <br/>
   BOMB  --- space
-5.ATOM is synchronized 2
+5.ATOM is synchronized 3
